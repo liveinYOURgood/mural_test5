@@ -1,0 +1,689 @@
+body {
+
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pro1 {
+  color: #9E1B32;
+  font-weight: bold;
+
+  
+}
+
+.pro2 {
+  color: black;
+  font-weight: bold;
+
+  
+}
+
+.pro3 {
+  color: darkgreen;
+  font-weight: bold;
+  
+}
+
+.footer2 {
+  padding: 50px;
+  text-align: center;
+  font-size: 38px;
+  color:white;
+  background-color: black;
+  
+  }
+  
+  .footerindex {
+    padding: 50px;
+    text-align: center;
+    font-size: 38px;
+    color:WHITE;
+    background-color: BLACK;
+    
+    }
+
+    .footerpicture {
+
+      display: block;
+      height: 60%;
+      width: 60%;
+
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 40px;
+
+
+    }
+
+
+
+          /*MOBILE VIEW BELOW */
+
+    @media (min-width: 319px) and (max-width: 480px) {
+
+
+    .img-bannerM {
+
+      width: 100%;
+      height: 100%;
+      display: block;
+    
+    }
+    
+    .img-banner {
+    
+    display: none;
+
+    }
+    
+
+    .JoeNamatholderAL {
+
+      height: 90%;
+      width: 90%;
+
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+
+      margin-bottom: 40px;
+
+    }
+    
+
+    .namathALQB {
+
+      height: 90%;
+      width: 90%;
+      display: Block;
+      margin-left: auto;
+      margin-bottom: 50px;
+      margin-right: auto;
+    
+      margin-top: 40px;
+    
+      border-radius: 25px;
+    
+    
+    }
+    
+
+    h1 {
+
+      margin-left: 40px;
+      margin-right: 40px;
+
+      color: darkgreen;
+      font-weight: bold;
+
+      font-size: 60px;
+      line-height: 66px;
+      text-align: center;
+
+      margin-top: 50px;
+
+      margin-bottom: 50px;
+
+
+    }
+
+
+    .bodytext {
+
+      margin-left: 40px;
+      margin-right: 40px;
+      margin-bottom: 40px;
+
+      font-size: 45px;
+      line-height: 57px;
+  
+    
+    }
+
+    .picture {
+
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    
+      margin-top: 20px;
+      margin-bottom: 20px;
+    
+    
+      height: 95%;
+      width: 95%;
+    
+      border-radius: 25px;
+    
+    }
+
+
+
+    .parent1 {
+
+      display: flex;
+      gap: 20px;
+      flex-direction: column;
+
+    }
+
+    .rollTide2jetsLAP {
+
+      display: NONE;
+
+    }
+
+
+    .rollTide2jets {
+
+      height: 90%;
+      width: 90%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 40px;
+      margin-bottom: 40px;
+
+      font-size: 45px;
+      line-height: 50px;
+  
+
+    }
+
+    .rollTide2jets2 {
+
+      height: 90%;
+      width: 90%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 40px;
+
+      font-size: 45px;
+      line-height: 50px;
+
+      }
+
+
+
+}
+
+          /*IPAD AND TABLET VIEW BELOW - BILL D. PHONE VIEW HERE */ 
+
+    @media (min-width: 481px) and (max-width: 1200px) {
+
+
+      .img-bannerM {
+
+        width: 90%;
+        height: 90%;
+        display: block;
+
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-top: 30px;
+
+      
+      }
+      
+      .img-banner {
+      
+      display: none;
+  
+      }
+  
+      .pro2 {
+        color: red;
+        
+      }
+
+      .JoeNamatholderAL {
+
+        height: 90%;
+        width: 90%;
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-bottom: 40px;
+
+
+
+        
+      }
+      
+
+      .namathALQB {
+
+        height: 90%;
+        width: 90%;
+        display: Block;
+        margin-left: 40px;
+        margin-bottom: 50px;
+        margin-right: 40px;
+      
+        margin-top: 40px;
+      
+        border-radius: 25px;
+      
+      
+      }
+      
+
+      h1 {
+
+        margin-left: 40px;
+        margin-right: 40px;
+
+        color: darkgreen;
+        font-weight: bold;
+
+        font-size: 55px;
+        line-height: 65px;
+        text-align: center;
+
+      }
+
+
+      .bodytext {
+
+        margin-left: 40px;
+        margin-right: 40px;
+        margin-bottom: 40px;
+
+        font-size: 45px;
+        line-height: 57px;
+        
+      
+      }
+      
+
+
+    .parent1 {
+
+      display: flex;
+      gap: 20px;
+      flex-direction: column;
+
+    }
+
+    .picture {
+
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    
+      margin-top: 40px;
+      margin-bottom: 40px;
+    
+    
+      height: 90%;
+      width: 90%;
+    
+      border-radius: 25px;
+    
+    }
+    
+
+    .rollTide2jets {
+
+      height: 90%;
+      width: 90%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 40px;
+
+      font-size: 45px;
+      line-height: 50px;
+  
+    }
+
+    .rollTide2jetsLAP {
+
+      display: NONE;
+
+    }
+
+
+    .rollTide2jets2 {
+
+      height: 90%;
+      width: 90%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 40px;
+
+      font-size: 45px;
+      line-height: 55px;
+  
+
+
+
+    }
+
+
+
+  }
+
+
+
+          /*LAPTOP VIEW BELOW */
+
+
+    @media (min-width: 1201px) and (max-width: 1600px) {
+
+
+.JoeNamatholderAL {
+
+  display: none;
+  
+
+}
+
+.rollTide2jetsLAP {
+
+  height: 90%;
+  width: 90%;
+  display: block;
+  margin-left: 40PX;
+  margin-right: auto;
+  margin-bottom: 40px;
+
+  font-size: 145%;
+  line-height: 160%;
+
+}
+
+
+
+.img-bannerM {
+
+  display: none;
+
+}
+
+.img-banner {
+
+  width: 100%;
+  height: 100%;
+  display: block;
+  
+}
+
+
+h1 {
+
+  margin-left: 40px;
+  color: darkgreen;
+  font-weight: bold;
+
+}
+
+
+.parent1 {
+
+  display: flex;
+  gap: 20px;
+  flex-direction: row-reverse;
+
+}
+
+.rollTide2jets {
+
+  height: 90%;
+  width: 90%;
+  display: NONE;
+  margin-left: 40px;
+  margin-right: 60px;
+  margin-bottom: 40px;
+
+  margin-top: 40px;
+
+  font-size: 47px;
+
+}
+
+.rollTide2jets2 {
+
+  height: 30%;
+  width: 30%;
+  display: block;
+  margin-left: 50px;
+  margin-right: auto;
+  margin-bottom: 50px;
+
+  margin-top: 40px;
+
+  border-radius: 25px;
+
+  font-size: 120%;
+
+  line-height: 135%;
+
+
+
+}
+
+
+.picture {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-top: 40px;
+  margin-bottom: 40px;
+
+
+  height: 90%;
+  width: 90%;
+
+  border-radius: 25px;
+
+}
+
+.namathALQB {
+
+  height: 60%;
+  width: 60%;
+  display: Block;
+  margin-left: 40px;
+  margin-bottom: 50px;
+  margin-right: 40px;
+
+  margin-top: 40px;
+
+
+
+}
+
+.pro1 {
+  color: red;
+  
+}
+
+.pro2 {
+  color: black;
+  
+}
+
+.bodytext {
+
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 40px;
+
+  font-size: 145%;
+
+  line-height: 155%;
+
+  
+
+
+}
+
+
+
+
+
+
+
+}
+
+
+
+      /*DESKTOP VIEW BELOW */
+
+
+    @media (min-width: 1601px)  {
+
+
+      .img-bannerM {
+
+        display: none;
+
+      }
+
+      .img-banner {
+
+        width: 100%;
+        height: 100%;
+        display: block;
+
+      }
+
+      .parent1 {
+
+        display: flex;
+        gap: 20px;
+        flex-direction: row;
+
+      }
+
+      .JoeNamatholderAL {
+
+        display: none;
+        
+      
+      }
+      
+
+      .rollTide2jets {
+
+        height: 30%;
+        width: 30%;
+        display: block;
+        margin-left: auto;
+        margin-right: 20px;
+        margin-bottom: 50px;
+
+        margin-top: 40px;
+
+
+        font-size: 120%;
+
+        line-height: 135%;
+
+
+
+
+      }
+
+      .rollTide2jets2 {
+
+        height: 30%;
+        width: 30%;
+        display: block;
+        margin-left: auto;
+        margin-right: 40px;
+        margin-bottom: 50px;
+
+        margin-top: 40px;
+
+        text-align: left;
+        color: #9E1B32;
+
+        border: 3pt black solid;
+
+        padding: 15px 15px 15px 15px;
+
+        font-size: 120%;
+
+        line-height: 135%;
+
+
+
+      }
+
+      .rollTide2jetsLAP {
+
+        display: NONE;
+  
+      }
+  
+
+
+      .namathALQB {
+
+        height: 50%;
+        width: 50%;
+        display: block;
+        margin-left: 40px;
+        margin-bottom: 50px;
+
+        margin-top: 40px;
+
+
+
+      }
+
+      h1 {
+
+        margin-left: 40px;
+        color: darkgreen;
+        font-weight: bold;
+
+      }
+
+      .picture {
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-top: 40px;
+        margin-bottom: 40px;
+
+
+        height: 90%;
+        width: 90%;
+
+
+      }
+
+      .welcome {
+
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+
+      .bodytext {
+
+        margin-left: 40px;
+        margin-right: 40px;
+        margin-bottom: 40px;
+        font-size: 20px;
+        line-height: 25px;
+
+      }
+
+    
+
+
+
+      
+
+    }
